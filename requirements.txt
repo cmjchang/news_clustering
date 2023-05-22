@@ -3,7 +3,7 @@ scipy==1.4.1
 streamlit==0.59.0
 spacy==2.1.8
 numpy==1.18.4
-requests==2.23.0
+requests==2.31.0
 beautifulsoup4==4.9.3
 gensim==3.8.3
 hanziconv==0.3.2
